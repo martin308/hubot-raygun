@@ -1,6 +1,6 @@
 {
   "name": "hubot-raygun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hubot & Robbie sitting in a tree...",
   "main": "./index.coffee",
   "repository": {
