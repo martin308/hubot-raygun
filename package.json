@@ -1,0 +1,24 @@
+{
+  "name": "hubot-raygun-error-notifier",
+  "version": "1.0.0",
+  "description": "Hubot & Robbie sitting in a tree...",
+  "main": "./index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/martin308/hubot-raygun-error-notifier.git"
+  },
+  "keywords": [
+    "raygun",
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "Martin Holman (http://martinholman.co.nz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martin308/hubot-raygun-error-notifier/issues"
+  },
+  "homepage": "https://github.com/martin308/hubot-raygun-error-notifier",
+  "dependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
