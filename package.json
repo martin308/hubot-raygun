@@ -1,5 +1,5 @@
 {
-  "name": "hubot-raygun-error-notifier",
+  "name": "hubot-raygun",
   "version": "1.0.0",
   "description": "Hubot & Robbie sitting in a tree...",
   "main": "./index.coffee",
