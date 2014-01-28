@@ -23,6 +23,6 @@ module.exports = (robot) ->
     room_id = req.params.room_id
 
     if data && room_id
-      robot.messageRoom room_id, "<a href='#{data.application.url}'>#{data.application.name}</a> - error has occurred - <a href='#{data.error.url}'>#{data.error.message}</a>"
+      robot.messageRoom room_id, "Error notification for #{data.application.name}, about #{data.error.message}. See #{data.error.url} for more information"
 
     res.end 'Thanks'
